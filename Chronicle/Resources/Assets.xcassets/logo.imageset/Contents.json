@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "AppIcon_ios-marketing-removebg-preview.png",
       "idiom" : "universal"
     }
   ],
