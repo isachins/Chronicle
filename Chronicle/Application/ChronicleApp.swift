@@ -11,7 +11,7 @@ import SwiftUI
 struct ChronicleApp: App {
     var body: some Scene {
         WindowGroup {
-            SplashScreenView()
+            StartingView()
         }
     }
 }
